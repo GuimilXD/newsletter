@@ -8,6 +8,7 @@ import {
 } from "react-router-dom";
 import App from './App';
 import Subscribed from './subscribe';
+import Password from './Password.js';
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/subscribed",
     element: <Subscribed/>,
+  },
+  {
+    path: "/password",
+    element: <Password/>
   },
 ]);
 
