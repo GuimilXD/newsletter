@@ -9,7 +9,7 @@ export default function Subscribed() {
       width={width}
       height={height}
       />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpngimg.com%2Fuploads%2Fconfetti%2Fconfetti_PNG86947.png&f=1&nofb=1&ipt=cc4fae6873bf9bd0afd847b46bb9c0e6fa1ef7ce1c3f45496df7235e0dfdefbe&ipo=images"
+      <img src="https://clipartcraft.com/images/congratulations-clipart-confetti-6.png"
            className="w-60 m-10"/>
 
       <h1 className="text-4xl font-bold w-1/2 text-center">Congratulations!</h1>
